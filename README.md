@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋👋👋, I'm ishak</h1>
-<h3 align="center">✨I'm working on Android application development. I mainly use Kotlin language in my projects, I also use Java language.</h3>
+<h3 align="center">✨👋 Hi there! I'm a passionate mobile developer with a strong focus on JavaScript, React Native, and Kotlin. I love building intuitive and efficient mobile applications that make people's lives easier. My work primarily revolves around developing cross-platform apps, and I enjoy diving into new technologies to continually expand my skill set. Feel free to explore my repositories and get in touch if you'd like to collaborate!
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishak728&label=Profile%20views&color=0e75b6&style=flat" alt="ishak728" /> </p>
 
