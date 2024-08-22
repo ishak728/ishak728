@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishak-erdo%c4%9fan-332b77233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishak-erdo%c4%9fan-332b77233/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishak-erdogan-67a5812a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishak-erdo%c4%9fan-332b77233/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ishakerdogan728/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ishakerdogan728/" height="30" width="40" /></a>
 </p>
 
