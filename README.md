@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋👋👋, I'm ishak</h1>
-<h3 align="center">✨👋 Hi there! Mobile Developer with 1.5+ years of experience in building both cross-platform applications using React Native and native Android applications with Kotlin. I have successfully developed and maintained customer and driver-side applications, integrating real-time tracking, secure payments, and messaging features.
+<h1 align="center">Hi 👋, I'm ishak</h1>
+<h3 align="center">Mobile Developer with 1.5+ years of experience in building both cross-platform applications using React Native and native Android applications with Kotlin. I have successfully developed and maintained customer and driver-side applications, integrating real-time tracking, secure payments, and messaging features.
 
 Proficient in JavaScript, TypeScript, React Native, Node.js, and MongoDB,PostgreSQL, with a solid understanding of backend development using Express.js and NestJS. Experienced in cloud deployment with Heroku, Firebase, and Google Cloud, ensuring scalable and efficient app performance.
 
