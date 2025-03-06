@@ -19,7 +19,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋👋👋, I'm ishak</h1>
-<h3 align="center">✨👋 Hi there! I'm a passionate mobile developer with a strong focus on JavaScript, React Native, and Kotlin. I love building intuitive and efficient mobile applications that make people's lives easier. My work primarily revolves around developing cross-platform apps, and I enjoy diving into new technologies to continually expand my skill set. Feel free to explore my repositories and get in touch if you'd like to collaborate!
+<h3 align="center">✨👋 Hi there! Mobile Developer with 1.5+ years of experience in building both cross-platform applications using React Native and native Android applications with Kotlin. I have successfully developed and maintained customer and driver-side applications, integrating real-time tracking, secure payments, and messaging features.
+
+Proficient in JavaScript, TypeScript, React Native, Node.js, and MongoDB,PostgreSQL, with a solid understanding of backend development using Express.js and NestJS. Experienced in cloud deployment with Heroku, Firebase, and Google Cloud, ensuring scalable and efficient app performance.
+
+Passionate about delivering seamless and impactful mobile experiences, I thrive on solving complex problems and optimizing application performance. Always eager to learn and contribute to innovative projects.
+
+🔹 Key Skills: React Native, Kotlin, Node.js, MongoDB, Firebase, Google Cloud, Express.js, NestJS, Redux, AsyncStorage, JWT, Stripe, Socket.IO
+🚀 Actively looking for opportunities to contribute to dynamic teams and build high-performance mobile applications.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishak728&label=Profile%20views&color=0e75b6&style=flat" alt="ishak728" /> </p>
