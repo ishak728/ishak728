@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm ishak</h1>
-<h3 align="center">Mobile Developer with 1.5+ years of experience in building both cross-platform applications using React Native and native Android applications with Kotlin. I have successfully developed and maintained customer and driver-side applications, integrating real-time tracking, secure payments, and messaging features.
+<h1 align="center">Hi 👋, I'm Ishak</h1>
+<h3 align="center">Detail-oriented Mobile Developer with over 2 years of experience building and maintaining high-performance Android and cross-platform applications using Kotlin, Jetpack Compose, React Native, and Node.js. Skilled in building scalable, maintainable apps with a deep understanding of modern mobile architecture, reactive programming, and backend integration.
 
-Proficient in JavaScript, TypeScript, React Native, Node.js, and MongoDB,PostgreSQL, with a solid understanding of backend development using Express.js and NestJS. Experienced in cloud deployment with Heroku, Firebase, and Google Cloud, ensuring scalable and efficient app performance.
+ <b><b><b>
 
-
-
-🔹 Key Skills: React Native, Kotlin, Node.js, MongoDB, Firebase, Google Cloud, Express.js, NestJS, Redux, AsyncStorage, JWT, Stripe, Socket.IO
+<table> <tr> <td><b>Languages</b></td> <td>Kotlin, Java, JavaScript, TypeScript</td> </tr> <tr> <td><b>UI</b></td> <td>Jetpack Compose, XML Layouts, Material3, React Native, React Navigation</td> </tr> <tr> <td><b>Architecture</b></td> <td>MVVM, MVI, Clean Architecture</td> </tr> <tr> <td><b>Async & Reactive</b></td> <td>Kotlin Flow, Coroutines, RxJava3, Promises</td> </tr> <tr> <td><b>State Management</b></td> <td>StateFlow, ViewModel, LiveData, Context API</td> </tr> <tr> <td><b>Networking</b></td> <td>Retrofit, Apollo GraphQL, GSON, Axios, Socket.IO</td> </tr> <tr> <td><b>Dependency Injection</b></td> <td>Hilt, Dagger 2</td> </tr> <tr> <td><b>Storage</b></td> <td>Room, DataStore, SharedPreferences, MongoDB, AsyncStorage</td> </tr> <tr> <td><b>Push & Analytics</b></td> <td>FCM (Firebase Cloud Messaging), Firebase Crashlytics</td> </tr> <tr> <td><b>Testing</b></td> <td>JUnit, MockK, Espresso, React Native Testing Library</td> </tr> <tr> <td><b>Tools</b></td> <td>GitHub Actions, Jenkins, Postman, Git, JIRA, Expo CLI</td> </tr> <tr> <td><b>Other</b></td> <td>Stripe SDK, Google Maps API, Express.js, Heroku, JWT</td> </tr> </table>
 
 </h3>
 
